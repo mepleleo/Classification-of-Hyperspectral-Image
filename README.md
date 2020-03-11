@@ -12,7 +12,7 @@ CNN分类Indian Pines高光谱图像
 
 3)运行TrainTheModel，进行模型训练。正在保存模型，包括权重。
 
-4)运行“验证+分类映射”，验证模型并创建分类图。
+4)运行Validation_and_Classification_Maps.py，验证模型并创建分类图。
 
 # Figures
 
